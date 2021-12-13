@@ -1,0 +1,6 @@
+[submodule "BackendTest"]
+	path = BackendTest
+	url = https://github.com/HeinerAlejandro/BackendTest
+[submodule "frontendtest"]
+	path = frontendtest
+	url = https://github.com/HeinerAlejandro/frontendtest
